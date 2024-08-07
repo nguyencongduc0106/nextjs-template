@@ -22,5 +22,7 @@
   },
   "[xml]": {
     "editor.defaultFormatter": "redhat.vscode-xml"
-  }
+  },
+  "tailwindCSS.classAttributes": ["class", "className", "ngClass", ".*ClassName"],
+  "tailwindCSS.emmetCompletions": true
 }
