@@ -1,7 +1,7 @@
 import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
 
-import AppProvider from '@src/providers'
+import AppProvider from '@providers'
 
 import './globals.css'
 
